@@ -21,6 +21,24 @@
           "text": "Hello World!"
         },
         "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_0"
+        },
+        "position": {
+          "height": 32,
+          "rotate": {
+            "anchor": "50% -25%"
+          },
+          "width": 344,
+          "x": 48,
+          "y": 92
+        },
+        "props": {
+          "text": "We\u0027ve made a change!"
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
